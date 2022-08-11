@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Product-review-card-component.git)
-- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Rating-button/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Product-review-card-component/)
 
 ## My process
 
