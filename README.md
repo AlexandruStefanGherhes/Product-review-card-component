@@ -25,7 +25,7 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/ss/desktop1.jpeg)
+![desktop version](/ss/desktop1.jpg)
 
 Mobile version
 
